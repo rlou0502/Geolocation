@@ -4,6 +4,7 @@
     <description>geolocation</description>
     <displayLocationInDecimal>true</displayLocationInDecimal>
     <externalId>false</externalId>
+    <inlineHelpText>geo location</inlineHelpText>
     <label>Location</label>
     <required>false</required>
     <scale>7</scale>
